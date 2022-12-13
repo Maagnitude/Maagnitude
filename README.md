@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning programming languages, such as C, Java, Python. Also, I'm taking Machine Learning and Data Mining lessons.
 - 💞️ I’m looking to collaborate on any project, I'm able to comprehend.
 - 📫 Reach me on LinkedIn at: https://www.linkedin.com/in/georgekazazis/
+  
+     and you can find me on Kaggle at: https://www.kaggle.com/georgekazazis
 
 <!---
 Maagnitude/Maagnitude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
