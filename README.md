@@ -4,12 +4,15 @@
 
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George+Kazazis.;Started+my+studies+in+Harokopio+University+on+March+2022.;Have+been+coding+since+then,so...;don't+expect+much...&multiline=true&size=30&duration=2000&height=150&width=1200&center=true&pause=1000)
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George+Kazazis.;Started+my+studies+in+Harokopio+University+on+March+2022.;Have+been+coding+since+then,so...;don't+expect+much...&multiline=true&size=30&duration=1500&height=150&width=1200&center=true&pause=1000" alt="Typing SVG">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="160"/>
   <div id="badges">
+  <a>
+    <h2 align="center"> Contact me </h2>
+  </a>
   <a href="https://www.linkedin.com/in/georgekazazis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
