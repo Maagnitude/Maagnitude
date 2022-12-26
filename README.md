@@ -1,6 +1,6 @@
 # About me
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George+Kazazis;I+started+my+studies+in+Harokopio+University+on+March+2022;so,+don't+expect+much...&multiline=true&size=25&duration=2000&height=100&width=1000&center=true&pause=1000)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George+Kazazis;I+started+my+studies+in+Harokopio+University+on+March+2022;I+have+been+coding+since+then,so...;don't+expect+much...&multiline=true&size=25&duration=2000&height=130&width=1000&center=true&pause=1000)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
