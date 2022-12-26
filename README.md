@@ -47,11 +47,11 @@
     <source srcset="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true" /> 
   </picture> 
-    <div id="header" align="center"> 
-  
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maagnitude&theme=tokyonight)  
-    </div> 
 </div>
+<div id="header" align="center">  
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maagnitude&theme=tokyonight)  
+</div> 
 
 - 👀 I’m interested in AI and ML.
 - 🌱 I’m currently learning programming languages, such as C, Java, Python. Also, I'm taking Machine Learning and Data Mining lessons.
