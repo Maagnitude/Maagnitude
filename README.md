@@ -1,14 +1,14 @@
 <div align="center">  
-  <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George+Kazazis.;Started+my+studies+in+Harokopio+University+on+March+2022.;Have+been+coding+since+then,so...;don't+expect+much...&multiline=true&size=30&duration=2000&height=150&width=1200&center=true&pause=1000)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140"/>
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="160"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/georgekazazis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,12 +27,14 @@
   </a>
   </div>
 </div>
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maagnitude&style=plastic&label=PROFILE+VIEWS&color=blueviolet" alt="Profile Views" width="150">
 </p>
+<br>
 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center"> 🚀 &nbsp;Some Tools & Languages I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
@@ -49,9 +51,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
 </p>
-<h1></h1>
+<br></br>
 
-
+<h2 align="center"> My records</h2>
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)"/>
