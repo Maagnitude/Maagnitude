@@ -59,15 +59,15 @@
 </p>
 <br></br>
 
-<h2 align="center"> My records</h2>
+<h2 align="center">My records</h2>
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)"/>
     <source srcset="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true&theme=tokyonight" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true&theme=tokyonight" width="430"> 
   </picture> 
   <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maagnitude&theme=tokyonight" alt="Top Langs" width="205">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maagnitude&theme=tokyonight&layout=compact" alt="Top Langs" width="360">
   </picture>
 </p>
    
