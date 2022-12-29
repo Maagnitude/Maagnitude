@@ -1,17 +1,16 @@
 <div align="center">  
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George+Kazazis.;Started+my+studies+in+Harokopio+University+on+March+2022.;Have+been+coding+since+then,so...;don't+expect+much...&multiline=true&size=30&duration=1500&height=150&width=1200&center=true&pause=1000" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George+Kazazis.;Started+my+studies+in+Harokopio+University+on+March+2022.;Have+been+coding+since+then.;;from+Brain+import+QuickLearning+as+ql;ql.LearnEverything(duration=everyday);+;+;&multiline=true&size=30&duration=1000&height=220&width=1200&center=true&pause=1000" alt="Typing SVG">
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="160"/>
+  <img src="https://mymodernmet.com/wp/wp-content/uploads/2021/01/boston-dynamics-do-you-love-me-robot-dance-01.gif" width="480"/>
   <div id="badges">
   <a>
-    <h2 align="center"> Contact me </h2>
+    <h2 align="center"><b>Contact me</b></h2>
   </a>
   <a href="https://www.linkedin.com/in/georgekazazis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
