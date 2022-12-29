@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maagnitude&no-bg=true&no-frame=true&title=Stars,Repositories,Followers,Commits&theme=tokyonight&column=4" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maagnitude&no-bg=true&no-frame=true&title=MultiLanguage,Stars,Repositories,Commits&theme=discord&column=4" alt="Trophies">
 </p>
 <br>
 
