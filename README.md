@@ -34,6 +34,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maagnitude&style=plastic&label=PROFILE+VIEWS&color=blueviolet" alt="Profile Views" width="150">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maagnitude&no-bg=true&no-frame=true&title=Stars,Repositories,Followers,Commits&theme=tokyonight&column=4" alt="Trophies">
+</p>
 <br>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools & Languages I Have Used and Learned</h2>
