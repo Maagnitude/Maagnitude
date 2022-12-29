@@ -15,18 +15,18 @@
   <a href="https://www.linkedin.com/in/georgekazazis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzbR3vGy8ybNgN37MVRQyRQ">
+<!--   <a href="https://www.youtube.com/channel/UCzbR3vGy8ybNgN37MVRQyRQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> -->
   <a href="mailto:yiwrgos_v.i.p@hotmail.com">
     <img src="https://camo.githubusercontent.com/88c919ff67666d749e5dabae3d863769320aa8dd0a5bcb52528ce0ae41b7080e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" width="83px" alt="Mail Badge"/>
   </a>
   <a href="https://discordapp.com/users/Maagnitude#1317">
   <img src="https://img.shields.io/badge/discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" width="105px" alt="Discord Badge"/>
   </a>
-  <a href="https://www.kaggle.com/georgekazazis">
+<!--   <a href="https://www.kaggle.com/georgekazazis">
   <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" width="62px" alt="Kaggle Badge"/>
-  </a>
+  </a> -->
   </div>
 </div>
 <br>
@@ -41,8 +41,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
