@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George.;Started+my+studies+in+Harokopio+University+on+March+2022.;Have+been+coding+since+then.;;from+Brain+import+QuickLearning+as+ql;ql.LearnEverything(duration=everyday);+;+;&multiline=true&size=30&duration=1000&height=220&width=1200&center=true&pause=1000" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George.;About+me:;;from+Brain+import+QuickLearning+as+ql;ql.LearnEverything(duration=everyday);+;+;&multiline=true&size=30&duration=1000&height=220&width=1200&center=true&pause=800&font=Inknut+Antiqua" alt="Typing SVG">
 
 <div id="header" align="center">
   <img src="https://mymodernmet.com/wp/wp-content/uploads/2021/01/boston-dynamics-do-you-love-me-robot-dance-01.gif" width="480"/>
@@ -71,11 +71,11 @@
   </picture>
 </p>
    
-<img src="https://readme-typing-svg.demolab.com/?lines=Interested+in+Machine+Learning+and+Data+Science;Getting+better+every+day!&multiline=true&size=30&duration=2000&height=100&width=1200&center=true&pause=2000" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Interested+in+Machine+Learning+and+Data+Science;Getting+better+every+day!&multiline=true&size=30&duration=2000&height=100&width=1200&center=true&pause=2000&font=Inknut+Antiqua" alt="Typing SVG">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Currently+learning+programming+languages,+such+as+Python,+C,+Java.&multiline=true&size=30&duration=2000&height=50&width=1200&center=true&pause=6000" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Currently+learning+programming+languages,+such+as+Python,+C,+Java.&multiline=true&size=30&duration=2000&height=50&width=1200&center=true&pause=6000&font=Inknut+Antiqua" alt="Typing SVG">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Looking+to+collaborate+on+any+project,+I'm+able+to+comprehend.&multiline=true&size=30&duration=2000&height=50&width=1200&center=true&pause=6000" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Looking+to+collaborate+on+any+project,+I'm+able+to+comprehend.&multiline=true&size=30&duration=2000&height=50&width=1200&center=true&pause=6000&font=Inknut+Antiqua" alt="Typing SVG">
 
 
 <!---<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>--->
