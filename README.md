@@ -12,6 +12,9 @@
   <a>
     <h2 align="center"><b>Contact me</b></h2>
   </a>
+  <a href="mailto:yiwrgos_v.i.p@hotmail.com">
+    <img src="https://img.shields.io/website?down_color=red&down_message=geokaz-off&label=Website&logo=geokaz&up_color=purple&up_message=geokaz&url=https%3A%2F%2Fgeokaz.carrd.co%2F" width="144px" alt="Mail Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/georgekazazis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,7 +22,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
   <a href="mailto:yiwrgos_v.i.p@hotmail.com">
-    <img src="https://camo.githubusercontent.com/88c919ff67666d749e5dabae3d863769320aa8dd0a5bcb52528ce0ae41b7080e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" width="83px" alt="Mail Badge"/>
+    <img src="https://camo.githubusercontent.com/88c919ff67666d749e5dabae3d863769320aa8dd0a5bcb52528ce0ae41b7080e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" width="82px" alt="Mail Badge"/>
   </a>
   <a href="https://discordapp.com/users/Maagnitude#1317">
   <img src="https://img.shields.io/badge/discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" width="105px" alt="Discord Badge"/>
