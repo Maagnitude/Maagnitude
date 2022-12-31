@@ -12,7 +12,7 @@
   <a>
     <h2 align="center"><b>Contact me</b></h2>
   </a>
-  <a href="mailto:yiwrgos_v.i.p@hotmail.com">
+  <a href="https://geokaz.carrd.co/">
     <img src="https://img.shields.io/website?down_color=red&down_message=geokaz-off&label=Website&logo=geokaz&up_color=purple&up_message=geokaz&url=https%3A%2F%2Fgeokaz.carrd.co%2F" width="144px" alt="Mail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/georgekazazis/">
