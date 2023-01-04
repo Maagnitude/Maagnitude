@@ -12,8 +12,8 @@
   <a>
     <h2 align="center"><b>Contact me</b></h2>
   </a>
-  <a href="https://geokaz.carrd.co/">
-    <img src="https://img.shields.io/website?down_color=red&down_message=geokaz-off&label=myWebsite&logo=geokaz&up_color=purple&up_message=geokaz&url=https%3A%2F%2Fgeokaz.carrd.co%2F" width="170px" alt="Mail Badge"/>
+  <a href="https://geokaza.crd.co/">
+    <img src="https://img.shields.io/website?down_color=red&down_message=geokaz-off&label=myWebsite&logo=geokaz&up_color=purple&up_message=geokaza&url=https%3A%2F%2Fgeokaza.crd.co%2F" width="170px" alt="Mail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/georgekazazis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
