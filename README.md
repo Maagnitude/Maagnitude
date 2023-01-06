@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George.;About+me:;;from+Brain+import+QuickLearning+as+ql;ql.LearnEverything(duration=everyday);+;+;&multiline=true&size=37&duration=1000&height=220&width=1200&center=true&pause=800&font=Inknut+Antiqua" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George.;About+me:;;from+Brain+import+QuickLearning+as+ql;ql.LearnEverything(duration=everyday);+;+;&multiline=true&size=20&duration=1000&height=130&width=1200&center=true&pause=800&font=Inknut+Antiqua" alt="Typing SVG">
 
 <div id="header" align="center">
   <img src="https://mymodernmet.com/wp/wp-content/uploads/2021/01/boston-dynamics-do-you-love-me-robot-dance-01.gif" width="480"/>
