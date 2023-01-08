@@ -60,8 +60,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visualparadigm" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
+<img src="https://img.icons8.com/color/480/old-vmware-logo.png" alt="vmware" width="45" height="45"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="vmware" width="40" height="40"/>
 </p>
 <h2 align="center">...and Frameworks</h2>
 <p align="center">
@@ -82,11 +85,11 @@
   </picture>
 </p>
    
-<img src="https://readme-typing-svg.demolab.com/?lines=Interested+in+Machine+Learning+and+Data+Science;Getting+better+every+day!&multiline=true&size=30&duration=2000&height=100&width=1200&center=true&pause=2000&font=Inknut+Antiqua" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Interested+in+Machine+Learning+and+Data+Science;Getting+better+every+day!&multiline=true&size=20&duration=2000&height=100&width=1200&center=true&pause=1000&font=Inknut+Antiqua" alt="Typing SVG">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Currently+learning+programming+languages,+such+as+Python,+C,+Java.&multiline=true&size=30&duration=2000&height=50&width=1200&center=true&pause=6000&font=Inknut+Antiqua" alt="Typing SVG">
+<!-- <img src="https://readme-typing-svg.demolab.com/?lines=Currently+learning+programming+languages,+such+as+Python,+C,+Java.&multiline=true&size=30&duration=2000&height=50&width=1200&center=true&pause=6000&font=Inknut+Antiqua" alt="Typing SVG">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Looking+to+collaborate+on+any+project,+I'm+able+to+comprehend.&multiline=true&size=30&duration=2000&height=50&width=1200&center=true&pause=6000&font=Inknut+Antiqua" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Looking+to+collaborate+on+any+project,+I'm+able+to+comprehend.&multiline=true&size=30&duration=2000&height=50&width=1200&center=true&pause=6000&font=Inknut+Antiqua" alt="Typing SVG"> -->
 
 
 <!---<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>--->
