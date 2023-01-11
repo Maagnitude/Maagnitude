@@ -65,6 +65,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
 <img src="https://img.icons8.com/color/480/old-vmware-logo.png" alt="vmware" width="45" height="45"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="vmware" width="40" height="40"/>
+<img src="https://clouddayscom.files.wordpress.com/2020/06/docker-logo.png" alt="docker" width="45" height="45"/>
+
 </p>
 <h2 align="center">...and Frameworks</h2>
 <p align="center">
