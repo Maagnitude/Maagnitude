@@ -74,7 +74,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="networkx" width="45" height="45"/>
 </p>
 <br></br>
-
+<!-- 
 <h2 align="center">My records</h2>
 <p align="center">
   <picture>
@@ -85,7 +85,7 @@
   <picture>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maagnitude&theme=transparent&layout=compact" alt="Top Langs" width="360">
   </picture>
-</p>
+</p> -->
    
 <img src="https://readme-typing-svg.demolab.com/?lines=Interested+in+Machine+Learning+and+Data+Science;Getting+better+every+day!&multiline=true&size=20&duration=2000&height=100&width=1200&center=true&pause=1000&font=Inknut+Antiqua" alt="Typing SVG">
 
