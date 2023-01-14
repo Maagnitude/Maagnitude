@@ -21,7 +21,7 @@
 <!--   <a href="https://www.youtube.com/channel/UCzbR3vGy8ybNgN37MVRQyRQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
-  <a href="mailto:yiwrgos_v.i.p@hotmail.com">
+  <a href="mailto:workwith.geokaz@gmail.com">
     <img src="https://camo.githubusercontent.com/88c919ff67666d749e5dabae3d863769320aa8dd0a5bcb52528ce0ae41b7080e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" width="82px" alt="Mail Badge"/>
   </a>
   <a href="https://discordapp.com/users/Maagnitude#1317">
