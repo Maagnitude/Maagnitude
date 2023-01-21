@@ -10,8 +10,8 @@
   <img src="https://mymodernmet.com/wp/wp-content/uploads/2021/01/boston-dynamics-do-you-love-me-robot-dance-01.gif" width="480"/>
   <div id="badges">
   <a>
-    <h2 align="center">Contact Me</h2>
-<!--     <h2 align="center"><b><img src="https://readme-typing-svg.demolab.com/?lines=Contact Me;&multiline=false&size=30&duration=2500&height=45&width=1200&center=true&pause=2000&font=Inknut+Antiqua&color=8C0EF7" alt="Typing SVG"></b></h2> -->
+<!--     <h2 align="center">Contact Me</h2> -->
+    <h2 align="center"><b><img src="https://readme-typing-svg.demolab.com/?lines=Contact Me;&multiline=false&size=30&duration=2500&height=45&width=1200&center=true&pause=2000&font=Inknut+Antiqua&color=8C0EF7" alt="Typing SVG"></b></h2>
   </a>
   <a href="https://geokaza.crd.co/">
     <img src="https://img.shields.io/website?down_color=red&down_message=geokaz-off&label=myWebsite&logo=geokaz&up_color=purple&up_message=geokaza&url=https%3A%2F%2Fgeokaza.crd.co%2F" width="170px" alt="Mail Badge"/>
