@@ -80,12 +80,12 @@
 <h2 align="center">My records</h2>
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true&theme=transparent&count_private=true"/>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true&theme=transparent&count_private=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Maagnitude&show_icons=true&theme=transparent&count_private=true" width="430"> 
+    <source srcset="https://github-readme-stats-eight-chi-75.vercel.app/api?username=Maagnitude&show_icons=true&theme=transparent&count_private=true"/>
+    <source srcset="https://github-readme-stats-eight-chi-75.vercel.app/api?username=Maagnitude&show_icons=true&theme=transparent&count_private=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"/>
+    <img src="https://github-readme-stats-eight-chi-75.vercel.app/api?username=Maagnitude&show_icons=true&theme=transparent&count_private=true" width="430"> 
   </picture> 
   <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maagnitude&theme=transparent&layout=compact" alt="Top Langs" width="360">
+        <img src="https://github-readme-stats-eight-chi-75.vercel.app/api/top-langs/?username=Maagnitude&theme=transparent&layout=compact" alt="Top Langs" width="360">
   </picture>
 </p>
    
