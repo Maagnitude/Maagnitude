@@ -64,8 +64,8 @@
 <img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visualparadigm" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
-<img src="https://img.icons8.com/color/480/old-vmware-logo.png" alt="vmware" width="45" height="45"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="vmware" width="40" height="40"/>
+<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" alt="postman" width="45" height="45"/>
+<img src="https://nodered.org/about/resources/media/node-red-hexagon.png" alt="node-red" width="40" height="40"/>
 <img src="https://clouddayscom.files.wordpress.com/2020/06/docker-logo.png" alt="docker" width="45" height="45"/>
 
 </p>
