@@ -4,17 +4,12 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+George.;About+me:;;from+Brain+import+SpeedLearning+as+sl;sl.LearnEverything(duration=everyday, rest=never)&multiline=true&size=20&duration=1000&height=130&width=1200&center=true&pause=800&font=Inknut+Antiqua" alt="Typing SVG">
 
 <div id="header" align="center">
   <img src="https://mymodernmet.com/wp/wp-content/uploads/2021/01/boston-dynamics-do-you-love-me-robot-dance-01.gif" width="480"/>
   <div id="badges">
   <a>
 <!--     <h2 align="center">Contact Me</h2> -->
-    <h2 align="center"><b><img src="https://readme-typing-svg.demolab.com/?lines=Contact Me;&multiline=false&size=30&duration=2500&height=45&width=1200&center=true&pause=2000&font=Inknut+Antiqua&color=8C0EF7" alt="Typing SVG"></b></h2>
-  </a>
-  <a href="https://geokaza.crd.co/">
-    <img src="https://img.shields.io/website?down_color=red&down_message=geokaz-off&label=myWebsite&logo=geokaz&up_color=purple&up_message=geokaza&url=https%3A%2F%2Fgeokaza.crd.co%2F" width="170px" alt="Mail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/georgekazazis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,7 +18,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
   <a href="mailto:workwith.geokaz@gmail.com">
-    <img src="https://camo.githubusercontent.com/88c919ff67666d749e5dabae3d863769320aa8dd0a5bcb52528ce0ae41b7080e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" width="82px" alt="Mail Badge"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiO21Fo6YsiqvIf5iU-YBzNnajRpgSupExQ&s" width="40px" alt="Mail Badge"/>
   </a>
   <a href="https://discordapp.com/users/Maagnitude#1317">
   <img src="https://img.shields.io/badge/discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" width="105px" alt="Discord Badge"/>
@@ -40,7 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maagnitude&no-bg=true&no-frame=true&title=MultiLanguage,PR,Repositories,Commits,Stars&theme=discord&column=5" alt="Trophies">
 </p>
 <br>
 
@@ -73,7 +67,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="networkx" width="45" height="45"/>
-<img src="https://geokaza.crd.co/assets/images/gallery03/e0aadd00_original.png?v=b78ff34a" alt="flask" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="flask" width="45" height="45"/>
 </p>
 <br></br>
 
@@ -98,7 +92,7 @@
 
 <!---<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>--->
      
-<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" theme=tokyonight/>
+
 
 <!---
 Maagnitude/Maagnitude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
